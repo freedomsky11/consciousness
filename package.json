@@ -1,0 +1,12 @@
+{
+  "name": "consciousness",
+  "version": "1.0.0",
+  "description": "The hard problem of consciousness",
+  "main": "index.js",
+  "author": "hanwei <i@hanwei.ink>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:freedomsky11/consciousness.git"
+  }
+}
